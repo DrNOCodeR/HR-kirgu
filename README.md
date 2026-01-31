@@ -4,8 +4,8 @@
 SQL SERVER
 
 # BACKEND:
-#npm i express body-parser mssql cors dotenv
-#npm init
+npm i express body-parser mssql cors dotenv <br>
+npm init
 node servers.js
 
 # FRONTEND:
