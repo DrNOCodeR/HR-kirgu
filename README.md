@@ -1,5 +1,5 @@
 # HR-kirgu
-
+# DATABASE SQL SERVER
 # BACKEND:
 npm i express body-parser mssql cors dotenv
 npm init
