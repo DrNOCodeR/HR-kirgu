@@ -13,6 +13,6 @@ npm install<br>
 npm install react-textarea-autosize<br>
 npm install react-hook-form<br>
 npm install framer-motion sass axios<br>
-npm install react-router-dom@6<br>   
+npm install react-router-dom@6  
 npm i axios bootstrap react-toastify<br>
 npm start
