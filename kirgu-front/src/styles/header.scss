@@ -1,0 +1,41 @@
+.main-header {
+  height: 2.5rem;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background: var(--bg-header);
+  color: var(--text-color);
+  padding: 15px 30px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+  z-index: 999;
+  transition: all 0.2s linear;
+}
+
+.header-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  margin: 0;
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.theme-toggle {
+  background: var(--button-bg);
+  color: var(--button-text);
+  border: 1px solid var(--button-border);
+  padding: 8px 14px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.25s;
+
+  &:hover {
+    opacity: 0.8;
+  }
+}
